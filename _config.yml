@@ -91,14 +91,6 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
-    - text: Jekyll
-      url: http://jekyllrb.com
-    - text: Jekyll Theme
-      url: http://www.zhanxin.info/themes.html
-    message: Friends
-  - item:
     - text: Font Awesome
       url: http://fortawesome.github.io/Font-Awesome/
     - text: Google Font
@@ -110,7 +102,7 @@ customLinks:
 #comment config
 disqus:
   config: false
-  id: minixalpha
+  id: dajyaretakuya
 
 
 #################################### global configure #######################################
